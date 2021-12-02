@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RectangleintoSquares.iml" filepath="$PROJECT_DIR$/.idea/modules/RectangleintoSquares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RectangleintoSquares-build.iml" filepath="$PROJECT_DIR$/.idea/modules/RectangleintoSquares-build.iml" />
+    </modules>
+  </component>
+</project>
